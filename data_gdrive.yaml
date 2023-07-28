@@ -1,0 +1,9 @@
+path: '/content/gdrive/MyDrive/ITS_Angled/Number_plate_recognition/data'
+train: '/content/gdrive/MyDrive/ITS_Angled/Number_plate_recognition/data/train'
+val: '/content/gdrive/MyDrive/ITS_Angled/Number_plate_recognition/data/valid'
+test: '/content/gdrive/MyDrive/ITS_Angled/Number_plate_recognition/data/test'
+
+nc: 1
+names: ['licence']
+
+
